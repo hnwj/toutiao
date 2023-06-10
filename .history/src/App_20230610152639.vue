@@ -8,7 +8,7 @@ onMounted(() => {
 })
 const getData = async () => {
   const { data: res } = await allChannelListAPI()
-  console.log('data', res)
+  console.log('data', data)
 }
 </script>
 <style lang="less">

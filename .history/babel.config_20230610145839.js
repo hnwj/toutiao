@@ -4,9 +4,9 @@ module.exports = {
       libraryName: 'vant',
       libraryDirectory: 'es',
       style: true
-    }, 'vant']
-  ],
-  presets: [
-    '@vue/cli-plugin-babel/preset'
+    }, 'vant'],
+    presets: [
+      '@vue/cli-plugin-babel/preset'
+    ]
   ]
 }
